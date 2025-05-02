@@ -74,5 +74,5 @@ sistema-escolar/
 
 
 🧑‍💻 Autor:
-Desenvolvido por [@Devmoises79].
-📧 Contato: [https://www.linkedin.com/in/moises-aniceto-71042a251/] | 🔗 LinkedIn
+- Desenvolvido por [@Devmoises79].
+- 📧 Contato: [https://www.linkedin.com/in/moises-aniceto-71042a251/] | 🔗 LinkedIn
