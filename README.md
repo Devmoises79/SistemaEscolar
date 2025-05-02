@@ -66,11 +66,11 @@ A situação do aluno é determinada pela nota final:
 ## 📂 Estrutura do Projeto
 sistema-escolar/
 
-├── main.py            # Código principal do sistema
+├── main.py            - Código principal do sistema
 
-├── banco_de_dados.db  # Arquivo SQLite gerado automaticamente
+├── banco_de_dados.db  - Arquivo SQLite gerado automaticamente
 
-├── README.md          # Documentação do projeto
+├── README.md          - Documentação do projeto
 
 
 🧑‍💻 Autor:
